@@ -15,11 +15,11 @@
 
 - :computer: Trabalho com desenvolvimento de software desde 2019, anteriormente estudei ciência de dados e desenvolvi alguns projetos acadêmicos na área;
 
-- :question: Se tiver dúvidas sobre qualquer coisa, seja relacionado a Dev, minha vida pessoal, trajetorias, empresas, agilismo, etc. não hexite em me perguntar, eu ficarei muito feliz em ajudar;
-
 - :guitar: Mais para o meu lado pessoal, eu adoro musica e games (em especial o DotA), toco diversos instrumentos musicais e faço pequanas gravações em meu home studio.
 
 - :bike: Não sou muito adepto da pratica de exercícios em  geral, porém gosto muito de pedalar.
+
+- :question: Se tiver dúvidas sobre minha vida pessoal, trajetorias, carreira, empresas, agilismo, desenvolvimento, etc. não hexite em me perguntar, eu ficarei muito feliz em ajudar;
 
 ## Tecnologias
 

@@ -73,7 +73,7 @@
 <br/>
 
 
-### Contatos
+## Contatos
 
 <a href="https://www.linkedin.com/in/eduardopierangeli/">
   <code><img alt="Meu linkedin" width="45" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" /></code>

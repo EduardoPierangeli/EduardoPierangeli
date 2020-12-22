@@ -19,7 +19,7 @@
 
 - :bike: Não sou muito adepto da pratica de exercícios em  geral, porém gosto muito de pedalar.
 
-- :question: Se tiver dúvidas sobre minha vida pessoal, trajetorias, carreira, empresas, agilismo, desenvolvimento, etc. não hexite em me perguntar, eu ficarei muito feliz em ajudar;
+- :question: Se tiver dúvidas sobre minha vida pessoal, trajetorias, carreira, empresas, agilismo, desenvolvimento, etc. não hesite em me perguntar, eu ficarei muito feliz em ajudar.
 
 ## Tecnologias
 

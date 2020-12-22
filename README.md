@@ -76,10 +76,10 @@
 ### Contatos
 
 <a href="https://www.linkedin.com/in/eduardopierangeli/">
-  <code><img alt="Meu linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="Meu linkedin" width="28" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" /></code>
 </a>
-
+<br/>
 <a href="evp.pierangeli@gmail.com">
-  <code><img alt="Meu email" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="Meu email" width="32" src="https://cdn.pixabay.com/photo/2019/10/19/17/24/gmail-4561841_1280.png" /></code>
 </a>
 

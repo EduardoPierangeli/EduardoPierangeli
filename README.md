@@ -3,10 +3,7 @@
 ### Olá, meu nome é Eduardo Vilela Pierangeli!
 
 <p>
- Sou mestre em Engenharia de Sistemas e Automação e Engenheiro de Controle e Automação pela Universidade Federal de Lavras - UFLA e atuo como Fullstack developer na DTI digital
-  <a href="https://www.dtidigital.com.br">
-    <img width="16" src="https://www.dtidigital.com.br/wp-content/uploads/2019/12/logo-dti-preta.png" alt="DTI" />
-  </a>
+ Sou mestre em Engenharia de Sistemas e Automação e Engenheiro de Controle e Automação pela Universidade Federal de Lavras - UFLA e atuo como Fullstack developer na CI&T
 </p>
 
 <br/>

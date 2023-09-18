@@ -3,7 +3,7 @@
 ### Olá, meu nome é Eduardo Vilela Pierangeli!
 
 <p>
- Sou mestre em Engenharia de Sistemas e Automação e Engenheiro de Controle e Automação pela Universidade Federal de Lavras - UFLA e atuo como Fullstack developer na CI&T
+ Sou mestre em Engenharia de Sistemas e Automação e Engenheiro de Controle e Automação pela Universidade Federal de Lavras - UFLA e atuo como Fullstack developer na BITKA Analytics
 </p>
 
 <br/>
@@ -14,7 +14,7 @@
 
 - :guitar: Mais para o meu lado pessoal, eu adoro musica e games (em especial o DotA), toco diversos instrumentos musicais e faço pequanas gravações em meu home studio.
 
-- :bike: Não sou muito adepto da pratica de exercícios em  geral, porém gosto muito de pedalar.
+- :bike: Não era muito adepto de atividades físicas, porém de uns anos pra cá tenho melhorado bastante.
 
 - :question: Se tiver dúvidas sobre minha vida pessoal, trajetorias, carreira, empresas, agilismo, desenvolvimento, etc. não hesite em me perguntar, eu ficarei muito feliz em ajudar.
 
